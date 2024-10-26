@@ -6,7 +6,9 @@ const RightBanner = () => {
   return (
     <div className="w-full lgl:w-1/2 flex justify-center items-center relative">
       <img
-        className="hidden md:block w-[270px] h-[270px] lgl:w-[470px] lgl:h-[470px] z-10"
+        // className="hidden md:block w-[270px] h-[270px] lgl:w-[470px] lgl:h-[470px] z-10"
+        className="w-[270px] h-[270px] lgl:w-[470px] lgl:h-[470px] z-10"
+
         src="./comp8.png"
         alt="bannerImg"
       />
