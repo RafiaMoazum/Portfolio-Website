@@ -40,32 +40,32 @@ const Education = () => {
       </div>
       {/* part Two */}
 
-      <div>
+      {/* <div>
         <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
           {/* <p className="text-sm text-designColor tracking-[4px]">2010 - 2022</p> */}
-          {/* <h2 className="text-3xl md:text-4xl font-bold">Job Experience</h2> */}
-        </div>
-        <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
-          {/* <ResumeCard
+          {/* <h2 className="text-3xl md:text-4xl font-bold">Job Experience</h2> 
+        </div> */}
+        {/* <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+          <ResumeCard
             title="Full Stack Developer"
             subTitle="Streams Consultants (current)"
             //result="USA"
             des="As a Full Stack Developer, I handle both front-end and back-end development, creating responsive designs and robust server-side logic to deliver seamless, full-featured web applications."
-          /> */}
-          {/* <ResumeCard
+          />
+          <ResumeCard
             title="Frontend & WordPress Developer"
             subTitle="Software Pro"
             //result="MALAYSIA"
             des="As a Frontend and WordPress Developer, I crafted responsive websites, enhancing user engagement through intuitive design and efficient content management systems."
-          /> */}
-          {/* <ResumeCard
+          />
+          <ResumeCard
             title="SQA Engineer"
             subTitle="CureMd"
            // result="Oman"
             des="As an SQA Engineer, I maintained software quality through detailed test plans, bug identification, and advocating for optimal user experiences to meet client specifications."
-          /> */}
+          />
         </div>
-      </div>
+      </div>  */}
     </motion.div>
     </>
   );
